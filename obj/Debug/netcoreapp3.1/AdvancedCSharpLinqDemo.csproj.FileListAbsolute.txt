@@ -1,0 +1,13 @@
+D:\AdvancedCSharpLinqDemo\bin\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.exe
+D:\AdvancedCSharpLinqDemo\bin\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.deps.json
+D:\AdvancedCSharpLinqDemo\bin\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.runtimeconfig.json
+D:\AdvancedCSharpLinqDemo\bin\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.runtimeconfig.dev.json
+D:\AdvancedCSharpLinqDemo\bin\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.dll
+D:\AdvancedCSharpLinqDemo\bin\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.pdb
+D:\AdvancedCSharpLinqDemo\obj\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.csprojAssemblyReference.cache
+D:\AdvancedCSharpLinqDemo\obj\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.AssemblyInfoInputs.cache
+D:\AdvancedCSharpLinqDemo\obj\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.AssemblyInfo.cs
+D:\AdvancedCSharpLinqDemo\obj\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.csproj.CoreCompileInputs.cache
+D:\AdvancedCSharpLinqDemo\obj\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.dll
+D:\AdvancedCSharpLinqDemo\obj\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.pdb
+D:\AdvancedCSharpLinqDemo\obj\Debug\netcoreapp3.1\AdvancedCSharpLinqDemo.genruntimeconfig.cache
